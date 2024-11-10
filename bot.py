@@ -3,7 +3,7 @@ from yt_dlp import YoutubeDL
 import os
 
 # Substitua pelo seu token de bot do Telegram
-TOKEN = '7405856221:AAFgT_kM9bfzAF8aOVk1PBf3vge3YcLK8pY'
+TOKEN = 'Digite aqui o Token do Bot do telegram'
 bot = telebot.TeleBot(TOKEN)
 
 # Dicionário para armazenar o link e a qualidade escolhida pelo usuário
